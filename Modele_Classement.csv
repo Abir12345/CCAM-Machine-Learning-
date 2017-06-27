@@ -1,0 +1,66 @@
+CODE_CCAM,INFECTION,AGE,DIABETE,PACEMAKER,HYPER_ARTERIELLE,hypertension,crises,dialyse,pathologie,thyro‹dienne,spasmophilie,dermathologie,saignement_spontan,problemes_cardiaques,rhumatisme,asthme,pathologie_foie,hypathie,dents_sensibles,dents_mobiles
+HBGB004,Lesion periapicale,55,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBGB004,Lesion periapicale,10,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBGB004,Lesion periapicale,23,oui,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,7,non,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,6,non,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,10,oui,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD015,implant,21,non,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,9,oui,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD015,implant,22,non,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,3,non,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,25,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,7,non,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,4,oui,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,10,non,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,18,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,25,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBGB006,furcation,25,oui,oui,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBGB004,Lesion periapicale,55,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBGB004,Lesion periapicale,10,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBGB004,Lesion periapicale,23,oui,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB002,Prothese defectueuse,20,oui,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB002,Prothese defectueuse,30,oui,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB002,Prothese defectueuse,25,non,oui,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB451,Prothese defectueuse,5,non,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB451,Prothese defectueuse,15,oui,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB451,Prothese defectueuse,8,non,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB451,Prothese defectueuse,11,non,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,7,non,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,6,non,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,10,oui,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD015,implant,21,non,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,9,oui,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD015,implant,22,non,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,3,non,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,25,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,7,non,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,4,oui,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,10,non,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,18,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,25,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBGB006,furcation,25,oui,oui,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBGB004,Lesion periapicale,55,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBGB004,Lesion periapicale,10,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBGB004,Lesion periapicale,23,oui,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB002,Prothese defectueuse,20,oui,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB002,Prothese defectueuse,30,oui,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB002,Prothese defectueuse,25,non,oui,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB451,Prothese defectueuse,5,non,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB451,Prothese defectueuse,15,oui,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB451,Prothese defectueuse,8,non,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LAPB451,Prothese defectueuse,11,non,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,7,non,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,6,non,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,10,oui,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD015,implant,21,non,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,9,oui,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD015,implant,22,non,oui,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+LBLD075,implant,3,non,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,25,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,7,non,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,4,oui,non,non,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,10,non,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,18,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBQK041,furcation,25,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui
+HBGB006,furcation,25,oui,oui,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui,oui,non,oui

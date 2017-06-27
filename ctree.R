@@ -1,0 +1,8 @@
+install.packages("party")
+library(party)
+DataAct<-read.csv(file.choose(),header=T,sep=',')
+str(DataAct)
+CCAM_tree <- ctree(CODE_CCAM ~ INFECTION + AGE + DIABETE + PACEMAKER + HYPER_ARTERIELLE + hypertension + crises + dialyse + pathologie + thyro.dienne + spasmophilie + dermathologie + saignement_spontan + problemes_cardiaques + rhumatisme + asthme + pathologie_foie + hypathie + dents_sensibles + dents_mobiles , data=DataActe)
+print(CCAM_tree)
+plot(CCAM_tree,uniform=TRUE,main="Classification Tree with ctree")
+text(CCAM_tree)
