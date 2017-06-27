@@ -5,4 +5,4 @@ str(DataAct)
 CCAM_tree<-rpart(CODE_CCAM~., DataAct,method="class")
 print(CCAM_tree)
 plot(CCAM_tree,uniform=TRUE,main="Classification Tree with rpart")
-text(CCAM_tree)
+
