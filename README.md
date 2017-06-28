@@ -17,3 +17,11 @@ Etapes d’exécution
 •	Accéder au modèle de données en exécutant la commande suivante DataAct<-read.csv(file.choose(),header=T,sep=','), la commande file.choose () de R permet d’ouvrir le fichier CSV, l'en-tête ici est vraie car le fichier CSV possède une en-tête et sep = "," spécifie que les données sont séparées par des virgules.
 •	Afficher les données de la variable « DataAct » contenant le modèle de données avec la commande « str(DataAct) ».
 ![1](https://user-images.githubusercontent.com/29728117/27640810-1f411204-5c12-11e7-8544-ad08c3571c88.PNG)
+•	Créer l’arbre de décision en tapant la commande :
+model<-rpart(CODE_Medical~., DataAct,method="class") 
+Ou 
+model <- ctree(CODE_Medical ~ INFECTION + AGE + DIABETE + PACEMAKER + HYPER_ARTERIELLE + hypertension + crises + dialyse + pathologie + thyro.dienne + spasmophilie + dermathologie + saignement_spontan + problemes_cardiaques + rhumatisme + asthme + pathologie_foie + hypathie, data=DataAct) 
+La syntaxe de base pour créer un arbre de décision avec « ctree » est 
+« ctree(formula, data) » et la description des paramètres utilisés  est comme suit : formula est une formule décrivant le prédicteur et les variables de réponse, data est le modèle de données utilisé.
+La syntaxe de base pour créer un arbre de décision avec « rpart » est « rpart (formula , data = , method =, control =) » où Formula = résultat ~ predictor1 + predictor2 + predictor3 + ect, data = spécifie le modèle de données, On spécifie method = "Classe" pour un arbre de classification et "anova" pour un arbre de régression,  control = spécifie des paramètres optionnels pour contrôler la croissance de l'arbre. Par exemple, control = rpart.control (minsplit = 30, cp = 0.001) exige que le nombre minimal d'observations dans un noeud soit 30 avant de tenter une division et qu'une division doit diminuer le manque global d'ajustement d'un facteur de 0,001 (Facteur de complexité des coûts) avant d'être tenté.
+•	Afficher l’arbre de décision (texte) avec la commande « print(model)»
