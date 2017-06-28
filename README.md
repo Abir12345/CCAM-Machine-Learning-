@@ -14,13 +14,13 @@ En général, un arbre de décision est un graphique qui permet de représenter 
 
 Etapes d’exécution
 
--	Faire un clone et télécharger le projet.
+-	Télecharger et installer R: The R Project for Statistical Computing https://cran.r-project.org/.
 
--	Ouvrir l’interface graphique de l’environnement R.
+-	Ouvrir l’environnement R.
 
--	Ouvrir l’un des deux scripts R « ctree.R » ou « rpart.R »
+-	Récupérer les scripts « ctree.R », « rpart.R » et le modele de données.
 
--	Exécuter le script R en tapant la commande « source ("C:/Users/Asus/Desktop/rpart.R") » ou « source ("C:/Users/Asus/Desktop/ctree.R") »
+-	Exécuter le script R en tapant la commande « source ("schéma/rpart.R") » ou « source ("schéma/ctree.R") »
 
 -	 Exécuter le script R étape par étape :
 
