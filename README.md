@@ -36,7 +36,7 @@ Etapes d’exécution
 
 model<-rpart(CODE_Medical~., DataAct,method="class") 
 Ou 
-model <- ctree(CODE_Medical ~ INFECTION + AGE + DIABETE + PACEMAKER + HYPER_ARTERIELLE + hypertension + crises + dialyse + pathologie + thyro.dienne + spasmophilie + dermathologie + saignement_spontan + problemes_cardiaques + rhumatisme + asthme + pathologie_foie + hypathie, data=DataAct) 
+model <- ctree(CODE_Medical ~ ., data=DataAct, control=ctree_control())
 
 La syntaxe de base pour créer un arbre de décision avec « ctree » est « ctree(formula, data) » et la description des paramètres utilisés  est comme suit : formula est une formule décrivant le prédicteur et les variables de réponse, data est le modèle de données utilisé.
 
