@@ -29,3 +29,4 @@ La syntaxe de base pour créer un arbre de décision avec « rpart » est « rpa
 
 •	Afficher l’arbre de décision (graphique) avec la commande « plot(model,uniform=TRUE,main="Classification Tree with rpart")»
 Ou « plot(model,uniform=TRUE,main="Classification Tree with ctree")»
+![4](https://user-images.githubusercontent.com/29728117/27641401-986b40b8-5c13-11e7-8b12-60ec601eb4d4.PNG)
