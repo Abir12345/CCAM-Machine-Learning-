@@ -34,4 +34,7 @@ Ou « plot(model,uniform=TRUE,main="Classification Tree with ctree")»
 uniform : si TRUE, arbre avec arêtes verticales toutes de même longueur, sinon, en fonction de l'erreur liée au split (défaut = FALSE).
 
 •	Examiner les résultats ou le bon nombre de feuilles avec la validation croisée grâce à la fonction « printcp »  pour le script « rpart.R» (texte)
-![6](https://user-images.githubusercontent.com/29728117/27641487-e1d4d78c-5c13-11e7-81b3-e728ebf46ec2.PNG)
+
+![3](https://user-images.githubusercontent.com/29728117/27641552-1db49c74-5c14-11e7-804f-72e660d7a2d9.png)
+
+•	Examiner les résultats ou le bon nombre de feuilles avec la validation croisée grâce à la fonction « plotcp »  pour le script « rpart.R» (graphique)
