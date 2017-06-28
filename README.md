@@ -42,3 +42,7 @@ uniform : si TRUE, arbre avec arêtes verticales toutes de même longueur, sinon
 
 La courbe indique le taux de mauvaises classifications relativement au score d'origine (dans un arbre réduit à une seule feuille dans laquelle la décision correspond à la classe majoritaire), estimé par la validation croisée. Les barres d'erreur autour de chaque estimation sont aussi obtenues par validation croisée. L'axe des abscisses indique la complexité de l'arbre par l'intermédiaire du nombre de feuilles.
 •	Le package rpart propose des fonctions d'affichage relativement limitées. On préfère donc s'appuyer sur rpart.plot, en particulier sur sa fonction prp. La figure ci-dessous est obtenue par le simple appel suivant : prp(model,extra=1)
+
+![6](https://user-images.githubusercontent.com/29728117/27641739-a8095428-5c14-11e7-88f6-cfcf5a49e938.PNG)
+
+•	Réaliser des prévisions sur de nouvelles données, en s'appuyant sur la fonction predict. Par défaut, la fonction estime les probabilités d'appartenance aux classes pour chaque observation (simplement par le ratio dans la feuille correspondante), en tapant la commande suivante : « predict(model, type="class")»
