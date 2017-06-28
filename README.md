@@ -46,3 +46,7 @@ La courbe indique le taux de mauvaises classifications relativement au score d'o
 ![6](https://user-images.githubusercontent.com/29728117/27641739-a8095428-5c14-11e7-88f6-cfcf5a49e938.PNG)
 
 •	Réaliser des prévisions sur de nouvelles données, en s'appuyant sur la fonction predict. Par défaut, la fonction estime les probabilités d'appartenance aux classes pour chaque observation (simplement par le ratio dans la feuille correspondante), en tapant la commande suivante : « predict(model, type="class")»
+
+![7](https://user-images.githubusercontent.com/29728117/27641790-d5738546-5c14-11e7-954c-ce67b3b7c9d0.PNG)
+
+•	Evaluer les performances de l'arbre simplifié en utilisant la procédure de type validation croisée intégrée dans rpart pour choisir la complexité de l'arbre. Le principe est de s'appuyer sur la fonction predict et sur la fonction table pour obtenir une matrice de confusion, comme suit « table(DataAct$CODE_Medical, predict(model, type="class"))»
