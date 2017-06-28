@@ -38,3 +38,7 @@ uniform : si TRUE, arbre avec arêtes verticales toutes de même longueur, sinon
 ![3](https://user-images.githubusercontent.com/29728117/27641552-1db49c74-5c14-11e7-804f-72e660d7a2d9.png)
 
 •	Examiner les résultats ou le bon nombre de feuilles avec la validation croisée grâce à la fonction « plotcp »  pour le script « rpart.R» (graphique)
+![5](https://user-images.githubusercontent.com/29728117/27641670-73c78a9a-5c14-11e7-9be0-2c4654ee758a.PNG)
+
+La courbe indique le taux de mauvaises classifications relativement au score d'origine (dans un arbre réduit à une seule feuille dans laquelle la décision correspond à la classe majoritaire), estimé par la validation croisée. Les barres d'erreur autour de chaque estimation sont aussi obtenues par validation croisée. L'axe des abscisses indique la complexité de l'arbre par l'intermédiaire du nombre de feuilles.
+•	Le package rpart propose des fonctions d'affichage relativement limitées. On préfère donc s'appuyer sur rpart.plot, en particulier sur sa fonction prp. La figure ci-dessous est obtenue par le simple appel suivant : prp(model,extra=1)
